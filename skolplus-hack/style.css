@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Encode+Sans&family=Rubik+Bubbles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Rubik+Bubbles&display=swap');
+p {
+   font-size: 20px;
+}
+body {
+   color: rgb(29, 178, 29);
+   font-family: 'Rubik Bubbles';
+   font-size: 4rem;
+   text-align: center;
+   background-color: rgb(96, 230, 114);
+}
+.image {
+   position: relative;
+   bottom: 15px;
+}
+.bottomText {
+   position: relative;
+   bottom: 1rem;
+}
+.codeBlock {
+   color: #fff;
+   border-radius: 15px;
+   border-color: #2B2A33;
+   background-color: #111111;
+   font-size: 20px;
+   width: 700px;
+   position: relative;
+   left: 34%;
+   font-family: 'Encode Sans';
+}

@@ -1,0 +1,14 @@
+1.
+newHiscore.saveHiscore('kuljaktmult1','Never',999999999);
+newHiscore.saveHiscore('kuljaktmult1','gonna',999999998);
+newHiscore.saveHiscore('kuljaktmult1','give',999999997);
+newHiscore.saveHiscore('kuljaktmult1','you',999999996);
+newHiscore.saveHiscore('kuljaktmult1','up',999999995);
+newHiscore.saveHiscore('kuljaktmult1','never',999999994);
+newHiscore.saveHiscore('kuljaktmult1','gonna',999999993);
+newHiscore.saveHiscore('kuljaktmult1','let',999999992);
+newHiscore.saveHiscore('kuljaktmult1','you',999999991);
+newHiscore.saveHiscore('kuljaktmult1','down',999999990);
+
+2.
+newHiscore.saveHiscore('kuljaktmult1','hehe',999999999);
